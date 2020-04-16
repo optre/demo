@@ -4,3 +4,4 @@ hello,我是来测试修改暂存取得
 
 测试commit1
 测试commit2
+测试commit3
